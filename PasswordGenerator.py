@@ -1,6 +1,8 @@
+# Importing String module.
 import string
 
 from random import *
+
 
 characters = string.ascii_letters + string.punctuation + string.digits
 

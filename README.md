@@ -1,2 +1,2 @@
-# PasswordGenerator
-will generate random passwords.
+## Password Generator:
+### This program is used to 

@@ -13,8 +13,7 @@ password = "".join(choice(characters) for x in range(randint(8, 16)))
 print(password)
 s
 s
-s
-s
+sd
 s
 s
 

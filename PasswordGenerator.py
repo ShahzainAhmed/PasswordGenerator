@@ -1,6 +1,5 @@
 # Importing modules.
 import string
-
 from random import *
 
 # Initializing a variable. 
